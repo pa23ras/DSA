@@ -18,7 +18,7 @@ public class Main
     for(int i = 0; i < n; i++){
       arr[i] = scn.nextInt();
     }
-    
+
     int[] queries = new int[q];
     for(int i = 0; i < q; i++){
       queries[i] = scn.nextInt();
